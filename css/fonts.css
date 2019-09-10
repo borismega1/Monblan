@@ -1,0 +1,39 @@
+@font-face {
+font-family: 'Proxima Nova Bold';
+src: url('fonts/Proxima/ProximaBold/ProximaNova-Bold.eot');
+src: url('fonts/Proxima/ProximaBold/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+url('fonts/Proxima/ProximaBold/ProximaNova-Bold.woff') format('woff'),
+url('fonts/Proxima/ProximaBold/ProximaNova-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Proxima Nova Semibold';
+src: url('fonts/Proxima/ProximaSemi/ProximaNova-Semibold.eot');
+src: url('fonts/Proxima/ProximaSemi/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+url('fonts/Proxima/ProximaSemi/ProximaNova-Semibold.woff') format('woff'),
+url('fonts/Proxima/ProximaSemi/ProximaNova-Semibold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Proxima Nova Regular';
+src: url('fonts/Proxima/ProximaReg/ProximaNova-Regular.eot');
+src: url('fonts/Proxima/ProximaReg/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+url('fonts/Proxima/ProximaReg/ProximaNova-Regular.woff') format('woff'),
+url('fonts/Proxima/ProximaReg/ProximaNova-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Myriad Pro Regular';
+src: url('fonts/Myriad/ProximaRegMyriadPro-Regular.eot');
+src: url('fonts/Myriad/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+url('fonts/Myriad/MyriadPro-Regular.woff') format('woff'),
+url('fonts/Myriad/MyriadPro-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
